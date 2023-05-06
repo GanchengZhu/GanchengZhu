@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 
 -
 ![PyTorch](https://img.shields.io/badge/-PyTorch-233333?style=flat&logo=pytorch)
-![Keras](https://img.shields.io/badge/-PyTorch-233333?style=flat&logo=keras)
+![Keras](https://img.shields.io/badge/-Keras-233333?style=flat&logo=keras)
 ![Numpy](https://img.shields.io/badge/-Numpy-233333?style=flat&logo=numpy)
-![PyTorch](https://img.shields.io/badge/-PyTorch-233333?style=flat&logo=psychopy)
+![PsychoPy](https://img.shields.io/badge/-PsychoPy-233333?style=flat&logo=psychopy)
 
 -
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-233333?style=flat&logo=androidstudio)
