@@ -7,7 +7,7 @@ GanchengZhu/GanchengZhu is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://profile-counter.glitch.me/cmdbug/count.svg" /> <img src="./01.gif" width="32px" height="32px"> 
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://profile-counter.glitch.me/GanchengZhu/count.svg" /> <img src="./01.gif" width="32px" height="32px"> 
 
 <img align='right' src='./00.webp' height='140px' loading="lazy">
 
