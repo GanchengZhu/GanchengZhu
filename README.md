@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 -
 ![PyTorch](https://img.shields.io/badge/-PyTorch-233333?style=flat&logo=pytorch)
-![PyTorch](https://img.shields.io/badge/-PyTorch-233333?style=flat&logo=keras)
+![Keras](https://img.shields.io/badge/-PyTorch-233333?style=flat&logo=keras)
 ![Numpy](https://img.shields.io/badge/-Numpy-233333?style=flat&logo=numpy)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-233333?style=flat&logo=psychopy)
 
