@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GanchengZhu.
+- 👋 Hi, I’m @GanchengZhu, a Ph.D. student.
 - 👀 I’m interested in Feature Selection, Deep Learning, Gaze Estimation, and Computational psychiatry.   
-- 📫 How to reach me psycho@zju.edu.cn.
+- 📫 How to reach me psycho@zju.edu.cn or zhugc2016@gmail.com.
 
 <!---
 GanchengZhu/GanchengZhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
