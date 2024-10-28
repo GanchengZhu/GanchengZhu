@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GanchengZhu.
-- 👀 I’m interested in Cognitive Psychology, Machine Learning, and Gaze Estimation.   
+- 👀 I’m interested in Feature Selection, Deep Learning, Gaze Estimation, and Computational psychiatry.   
 - 📫 How to reach me psycho@zju.edu.cn.
 
 <!---
